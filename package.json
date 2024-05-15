@@ -1,0 +1,15 @@
+{
+  "name": "hellower",
+  "version": "1.0.0",
+  "description": "Приложение здоровается!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Владимир Васильевич",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
